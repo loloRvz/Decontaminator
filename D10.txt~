@@ -1,0 +1,13 @@
+# number of robots
+1				
+	 # robot 1
+	 -10  0 0				
+FIN_LISTE
+
+# number of particules
+2		
+	# particule 1
+	1 2 0  0
+	# particule 2
+	1 2 10 5		
+FIN_LISTE
